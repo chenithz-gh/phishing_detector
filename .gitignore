@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Output files
+__pycache__/
+*.pyc
+scan_log.txt
+*.eml
+model.pkl
+vectorizer.pkl
+emails.csv
+
+# Credentials — never upload this
+config.py
