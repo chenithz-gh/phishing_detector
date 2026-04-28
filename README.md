@@ -1,4 +1,4 @@
-# phishing_detector# 🛡️ Phishing Email Detector
+# 🛡️ Phishing Email Detector
 
 > **Disclaimer:** This project is built strictly for educational purposes to understand how phishing detection works. Use responsibly and only on your own email accounts.
 
